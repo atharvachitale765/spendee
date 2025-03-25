@@ -49,4 +49,4 @@ The **Expenditure, EMI, and Income Calculator** is an Android application design
 ## 📲 **Installation Instructions**
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+    git clone https://github.com/atharvachitale765/spendee.git
